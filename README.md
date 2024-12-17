@@ -1,1 +1,7 @@
 # Mod8-journal
+
+The last project for this class involved creating a grocery application to keep track of the items brought into the store, and output various items based on this list. It solved the problem of having to manually keep track of what is coming into the store, and can output how many of the items are in stock, and print a histogram showing the frequency as a visual.
+	One thing I did well is the menu loop. I threw all the functions for everything into that using a switch case, so that main is kept nice and clean. I could have added some try checks to catch any user input error, but I think the way I coded it helps catch most of that.
+	I still struggle with save files, so that took me some time to complete however, zybooks is an excellent resource, as well as Google of course. They showed me how exactly to implement that in a way that made sense to me.
+	One thing I took away from this class was how important it is to utilize other files when coding. Most of my experience thus far has been completed having all of my code on one file. I can see why using more than one file is useful, and will look to implement this in future projects.
+	I made the project readable by using appropriate whitespace and inserting comments where I thought they were needed. Overall I am very proud of how this project turned out, and learned skills that will assist me further in future courses.
